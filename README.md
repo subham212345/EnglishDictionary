@@ -8,6 +8,6 @@ The program makes use of the PyDictionary module to fetch the meaning of the wor
 
 # How to install
 
-Installation of the module can be done through pip.
+Installation of the module can be done through pip by using the following command.
 
 pip install PyDictionary
